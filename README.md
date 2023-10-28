@@ -1,7 +1,11 @@
 👋 Hi, I’m Julio
+
 👀 I’m interested in work with a team to create project that change people live
+
 🌱 I’m currently learning docker
+
 💞️ I’m looking to collaborate on software developer proyects
+
 📫 How to reach in linkedin https://www.linkedin.com/in/julio-coloma-068a83294/
 
 <!---
